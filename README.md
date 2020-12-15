@@ -36,6 +36,6 @@ Hi, I'm [Abdul Samad](https://www.facebook.com/profile.php?id=100004132877739), 
 <!-- TODO-IST:START -->
 🏆  More than 10 Projects done           
 🌸  Completed 0 tasks today           
-✅  Completed 70 tasks so far           
-⏳  Longest streak is 10 days
+✅  Completed 15 tasks so far           
+⏳  Longest streak is 3 days
 <!-- TODO-IST:END -->
