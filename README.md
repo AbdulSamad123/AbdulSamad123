@@ -17,7 +17,7 @@ Hi, I'm [Abdul Samad](https://www.facebook.com/profile.php?id=100004132877739), 
 - 🌱 I’m currently learning React; 
 - 💬 Ask me about anything related to front-end and back-end , I am happy to help;
 - 📫 How to reach me: [Abdul Samad](https://twitter.com/Abdul_Samad_123);
-- 📝[Resume](https://drive.google.com/drive/my-drive?fbclid=IwAR0UQ6H5w3YXR5nP-dOdzTFEgz5bbg7IdGXnpOFX3Eq7IgJoZF1mfdjitU4/Resume)
+- 📝[Resume](https://drive.google.com/file/d/1JW5SSirRPsDr57Js4G8ZeP-k5-th-z3E/view?usp=sharing)
 
 *Languages and Tools:*  
 
@@ -32,10 +32,3 @@ Hi, I'm [Abdul Samad](https://www.facebook.com/profile.php?id=100004132877739), 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"></code>
 
-🚧 *My Todoist Stats:*
-<!-- TODO-IST:START -->
-🏆  More than 10 Projects done           
-🌸  Completed 0 tasks today           
-✅  Completed 15 tasks so far           
-⏳  Longest streak is 3 days
-<!-- TODO-IST:END -->
